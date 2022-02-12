@@ -8,27 +8,39 @@ available cars, their reservations, and book their desired car.
 THE SYSTEM IS DEVELOPED TO PROVIDE THE FOLLOWING FEATURES:
 ### User authorities:
 ● Sign up.
+
 ● Log in.
+
 ● Search by the car specification desired to reserve a car.
-● Determine the way of payment (CASH / VISA)
-● View his payment details
-● Log out
+
+● Determine the way of payment (CASH / VISA).
+
+● View his payment details.
+
+● Log out.
 #### Admin authorities:
-● Log in
-● View all system cars
-● View all users cars reservations
-● Edit in System cars
-● Search a car
-● View daily reports
-● Log out
+● Log in.
+
+● View all system cars.
+
+● View all users cars reservations.
+
+● Edit in System cars.
+
+● Search a car.
+
+● View daily reports.
+
+● Log out.
 
 ## Screens' logic:
 ● Registration Screen :
 User registers to the system by his/her information
 
 ● Login Screen :
-User enters his/her username and password to access USER homepage
-Admin enters his/her username and password to access ADMIN homepage
+User enters his/her username and password to access USER homepage.
+
+Admin enters his/her username and password to access ADMIN homepage.
 
 ● User Screen:
 Reserve Car button “on press” : a screen proceeds to allow user to view system
