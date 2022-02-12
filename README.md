@@ -7,9 +7,9 @@ available cars, their reservations, and book their desired car.
 ## Implemented features
 THE SYSTEM IS DEVELOPED TO PROVIDE THE FOLLOWING FEATURES:
 ### User authorities:
-● Sign up
-● Log in
-● Search by the car specification desired to reserve a car
+● Sign up.
+● Log in.
+● Search by the car specification desired to reserve a car.
 ● Determine the way of payment (CASH / VISA)
 ● View his payment details
 ● Log out
